@@ -15,7 +15,7 @@ int main()
 	fragor.push_back(string("-	Vilka språkliga förändringar har ägt rum?"));
 	
 	for(int i=0; i<fragor.size(); i++) {
-		cout<<fragor[i]<<endl;
+		cout<<i+1<<" "<<fragor[i]<<endl;
 	}
 	return 0;
 }
