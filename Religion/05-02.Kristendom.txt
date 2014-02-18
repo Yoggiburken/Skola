@@ -25,5 +25,5 @@
 ==ANG==
 			Var: UK, Nord Europa, Nord Amerika, Australien
 		Ledning: Drottning Elizabeth, Ärkebiskopen
-	Sakramenten: Alla sju sakrament
+	Sakramenten: Dop, nattvard
 	Kännetecken: The book of common prayer (bok för mässor)
