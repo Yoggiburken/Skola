@@ -2,7 +2,7 @@
 			Var: Central/Sydamerika, Södra Europa
 		Ledning: Påven
 	Sakramenten: Dop, Konfirmation, Bikt, Den sista smärjelsen, etc etc alla sju sakrament
-	Kännetecken: Superkors, Italienare, Jungfru Maria är viktig
+	Kännetecken: Jungfru Maria är viktig
 
 ==ORT==
 			Var: Ryssland, Östblocket
@@ -12,7 +12,7 @@
 
 ==LUTH==
 			Var: UK, Nord Europa, Nord Amerika, Australien
-		Ledning: Ärkebiskoppen
+		Ledning: Ärkebiskopen
 	Sakramenten: nattvard, bekännelse
 	Kännetecken: nedtonad
 
@@ -24,6 +24,6 @@
 
 ==ANG==
 			Var: UK, Nord Europa, Nord Amerika, Australien
-		Ledning: Drottning Elizabeth, Ärkeboskoppar
+		Ledning: Drottning Elizabeth, Ärkebiskopen
 	Sakramenten: Alla sju sakrament
 	Kännetecken: The book of common prayer (bok för mässor)
