@@ -1,14 +1,16 @@
 ==KAT==
 			Var: Central/Sydamerika, Södra Europa
-		Ledning: Påven
-	Sakramenten: Dop, Konfirmation, Bikt, Den sista smärjelsen, etc etc alla sju sakrament
+		Ledning: Påven<insert cool name here> > kardinaler > biskoppar > präster(måste vara celibat)
+		PåveVal: Stängt rum, alla kardinaler får rösta på en kardinal, får inte vara över 80, svart rök tills det är bestämt och övergår till vit.
+	Sakramenten: konfermation, nattvard, prästvigning, bikt, äktenskapet, smörljelsen
+  Vatikanstaden: Minsta staten. Där påven bor.
 	Kännetecken: Jungfru Maria är viktig
 
 ==ORT==
 			Var: Ryssland, Östblocket
-		Ledning: Ingen gemensam ledare, flera nationella kyrkor
-	Sakramenten: Konfirmation, Dop
-	Kännetecken: Typiska klädseln för deras präster, Jesus är viktig, Kyrkan är rik/mäktig, snett kors
+		Ledning: Ingen gemensam ledare, flera nationella kyrkor (präster får gifta sig)
+	Sakramenten: Alla sju
+	Kännetecken: Typiska klädseln för deras präster, Jesus är viktig, Kyrkan är rik/mäktig, snett kors, ikoner
 
 ==LUTH==
 			Var: UK, Nord Europa, Nord Amerika, Australien
@@ -18,12 +20,12 @@
 
 ==REF==
 			Var: UK, Nord Europa, Nord Amerika, Australien
-		Ledning: Presbyter (framröstad lokal ledare)
+		Ledning: Presbyter ((Betyder de äldsta) framröstad lokal ledare)
 	Sakramenten: Dop, nattvard
 	Kännetecken: kors med ring
 
 ==ANG==
 			Var: UK, Nord Europa, Nord Amerika, Australien
-		Ledning: Drottning Elizabeth, Ärkebiskopen
+		Ledning: Drottning Elizabeth, 2 Ärkebiskopar (En i norr och en i söder) > biskopar > präster
 	Sakramenten: Dop, nattvard
 	Kännetecken: The book of common prayer (bok för mässor)
