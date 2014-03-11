@@ -14,7 +14,12 @@
 	
 	10% är shia(fundamentalistiskt), 90% sunnah(inte fundamentalistiskt)
 
-			var: Nordafrika, Mellanöstern och Indonesien
+			var: Nordafrika och den östra kusten, Arabiska halvön, Mellanöstern och Indonesien
+			när: 600 e.kr (622 e.kr börjar den muslimska tideräkningen då mohammed flyttade till något tufft ställe)
+	   grundare: Mohammed
+ helia skrifter: Quran, Shunna, 
+ 	 riktningar: Sunni, Shia
+	grundtankar: Sunni vill att man ska välja en bra ledare, Shia vill att man ska välja en ledare som kommer ifrån mohammeds släkt.
 		ledning: Caliph(ledare för ett Islamskt land), Imam(typ präst)
 	sakramenten: Shahadah("Det finns ingen gud utom gud"), Salah(Be mot Mekka 5ggr per dag), Zakat(Ge till de fatiga),
 				 Sawm(Att fasta under ramadan), Hajj(Man ska försöka att genomföra en färd till Mekka en gång i sitt
