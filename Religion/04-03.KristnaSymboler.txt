@@ -32,7 +32,7 @@
 	LYKTAN?
 		Guds ord.
 	VÅGEN?
-		Guds rättvisa/dom.
+		Guds rättvisa dom.
 	VINDRUVOR?
 		Jesus blod/nattvard.
 	VINRANKAN?
@@ -48,7 +48,7 @@
 	IHS?
 		Jesus namn.
 	ICHTYS?
-		Kådord som användes av förföljda kristna.
+		Kådord som användes av förföljda kristna. Jesus kristus, guds son, frälsaren
 
 <Andra symboler du funnit>
 	Nada
