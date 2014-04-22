@@ -15,14 +15,14 @@
 ==LUTH==
 			Var: UK, Nord Europa, Nord Amerika, Australien
 		Ledning: Ärkebiskopen
-	Sakramenten: nattvard, bekännelse
+	Sakramenten: Dop, nattvard
 	Kännetecken: nedtonad
 
 ==REF==
 			Var: UK, Nord Europa, Nord Amerika, Australien
 		Ledning: Presbyter ((Betyder de äldsta) framröstad lokal ledare)
 	Sakramenten: Dop, nattvard
-	Kännetecken: kors med ring
+	Kännetecken: kors med ring, man är vald(spelaring ingen roll vad du gör i livet), man är syndens slav
 
 ==ANG==
 			Var: UK, Nord Europa, Nord Amerika, Australien
