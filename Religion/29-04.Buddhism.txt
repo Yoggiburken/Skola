@@ -22,6 +22,15 @@ Grundtankar
 		Lidandet upphör när begäret utplånas
 		Begäret utplånas om man följer den heliga åttafaldiga vägen
 	
+	Å - Åstrand
+	S - såg
+	T - Tobbe
+	H - ha
+	Y - yoga
+	S - studier
+	M - med
+	M - Mats
+	
 	åttafaldiga vägen
 		1. Rätt åsik - Tror på karma, 4 sanningar och buddhismen.
 		2. Rätt sinnelag - Inge våld eller världsliga nöjen. Kallas ahimsa.
